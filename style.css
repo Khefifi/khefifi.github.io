@@ -1,0 +1,29 @@
+h1{
+font-size: 50px;
+text-align: center;
+color: #800080
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+color: #FFFFFF
+}
+
+
+h2{
+font-size: 30px;
+text-align: left;
+color:#4682B4
+}
+
+h3{
+font-size: 30px;
+text-align: left;
+color:#4682B4
+}
+
+body {
+background-color:#000000;
+}
